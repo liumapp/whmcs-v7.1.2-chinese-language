@@ -1964,6 +1964,14 @@ $_LANG['orderForm']['includedWithPlans'] = "被每个套餐包括";
 $_LANG['orderForm']['whatIsIncluded'] = "包含哪些内容？";
 $_LANG['orderForm']['errorNoProductGroup'] = "无法加载产品组。";
 $_LANG['orderForm']['errorNoProducts'] = "产品组不包含任何产品";
+$_LANG['orderForm']['exploreNow'] = '展开产品列表';
+$_LANG['orderForm']['transferDomain'] = '转移域名';
+$_LANG['orderForm']['packagesForBudget'] = '我们有适合不同价格区间的产品';
+$_LANG['orderForm']['chooseFromRange'] = '从产品列表中选择一台服务器';
+$_LANG['orderForm']['addHosting'] = '添加主机';
+$_LANG['orderForm']['transferToUs'] = '转移域名给我们';
+$_LANG['orderForm']['transferExtend'] = '现在转移可以免费续费一年！';
+$_LANG['orderForm']['extendExclusions'] = '包括指定的顶级域名和刚续费的域名';
 
 $_LANG['cloudSlider']['feature01Title'] = "服务器正常运行时间";
 $_LANG['cloudSlider']['feature01Description'] = "服务器正常运行时间是非常关键的——将它认为成托管业务的核心。文件、数据库、电子邮件和 Web 服务器的大多数业务流程中不可缺少的一部分，停机将对对生产、销售、员工和客户的满意度直接产生负面影响。这就是为什么确保服务器正常运行时间是对我们如此重要——我们要确保你的业务流程运行的正常，这样客户才会满意。";
@@ -2003,3 +2011,7 @@ $_LANG['oauth']['badTwoFactorAuthModule'] = "双因素认证模块出错，请�
 $_LANG['oauth']['permAccessNameAndEmail'] = "访问您的姓名和电子邮件地址";
 
 $_LANG['errorButTryAgain'] = "错误发生，请重试。";
+
+$_LANG['China'] = '中国';
+$_LANG['Add'] = '添加';
+
